@@ -18,7 +18,7 @@ see the difference.
 For example:
 
 ```ruby
-reverse_each_word("Hello there, and how are you?")
+reverse_each_word("Helsflo there, and how are you?")
   #=> "olleH ,ereht dna woh era ?uoy"
 ```
 
